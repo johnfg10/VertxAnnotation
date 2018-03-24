@@ -1,0 +1,5 @@
+rootProject.name = 'VertxAnnotation'
+include 'VertxAnnoCore'
+include 'VertxAnnoCore'
+include 'test'
+
